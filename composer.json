@@ -20,7 +20,7 @@
       "name": "analytics-core"
     }
   },
-  "version": "1.5.2",
+  "version": "1.6.0",
   "autoload-dev": {
     "psr-4": {
       "Liberu\\Analytics\\Core\\Tests\\": "tests/"
